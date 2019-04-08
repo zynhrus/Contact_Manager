@@ -1,15 +1,15 @@
 {
-  "main.css": "/contactmanager/static/css/main.11d832ee.chunk.css",
-  "main.js": "/contactmanager/static/js/main.006e34f4.chunk.js",
-  "main.js.map": "/contactmanager/static/js/main.006e34f4.chunk.js.map",
-  "runtime~main.js": "/contactmanager/static/js/runtime~main.884ecd02.js",
-  "runtime~main.js.map": "/contactmanager/static/js/runtime~main.884ecd02.js.map",
-  "static/css/2.aefb6f58.chunk.css": "/contactmanager/static/css/2.aefb6f58.chunk.css",
-  "static/js/2.97416df2.chunk.js": "/contactmanager/static/js/2.97416df2.chunk.js",
-  "static/js/2.97416df2.chunk.js.map": "/contactmanager/static/js/2.97416df2.chunk.js.map",
-  "index.html": "/contactmanager/index.html",
-  "precache-manifest.e9194b84afc6451581f1c30aac91e29e.js": "/contactmanager/precache-manifest.e9194b84afc6451581f1c30aac91e29e.js",
-  "service-worker.js": "/contactmanager/service-worker.js",
-  "static/css/2.aefb6f58.chunk.css.map": "/contactmanager/static/css/2.aefb6f58.chunk.css.map",
-  "static/css/main.11d832ee.chunk.css.map": "/contactmanager/static/css/main.11d832ee.chunk.css.map"
+  "main.css": "/contact_manager/static/css/main.11d832ee.chunk.css",
+  "main.js": "/contact_manager/static/js/main.3e00fafd.chunk.js",
+  "main.js.map": "/contact_manager/static/js/main.3e00fafd.chunk.js.map",
+  "runtime~main.js": "/contact_manager/static/js/runtime~main.75798bfb.js",
+  "runtime~main.js.map": "/contact_manager/static/js/runtime~main.75798bfb.js.map",
+  "static/css/2.aefb6f58.chunk.css": "/contact_manager/static/css/2.aefb6f58.chunk.css",
+  "static/js/2.97416df2.chunk.js": "/contact_manager/static/js/2.97416df2.chunk.js",
+  "static/js/2.97416df2.chunk.js.map": "/contact_manager/static/js/2.97416df2.chunk.js.map",
+  "index.html": "/contact_manager/index.html",
+  "precache-manifest.10fabf51f632437a9b9fbedc918e626f.js": "/contact_manager/precache-manifest.10fabf51f632437a9b9fbedc918e626f.js",
+  "service-worker.js": "/contact_manager/service-worker.js",
+  "static/css/2.aefb6f58.chunk.css.map": "/contact_manager/static/css/2.aefb6f58.chunk.css.map",
+  "static/css/main.11d832ee.chunk.css.map": "/contact_manager/static/css/main.11d832ee.chunk.css.map"
 }
